@@ -1,4 +1,5 @@
 # js-example.eachfunc.com
 
 
-js-example.eachfunc.com
+
+https://eachfunc.github.io/js-example/
